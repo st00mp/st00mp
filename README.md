@@ -1,6 +1,8 @@
-IFAPME graduate 2026, after a two-year work-study programme building internal tools on an
+Backend developer, Java / Spring Boot. Two years of work-study backend development,
+including one year in R&D at HMS Industrial Networks, building internal tools on an
 industrial cloud platform: self-service flows that let a support team work without
 developers, and a GDPR account deletion service on Spring Boot and RabbitMQ.
+IFAPME graduate, 2026.
 
 I came to development after ten years in marketing, which mostly means I ask what the
 problem is before writing the first line.
