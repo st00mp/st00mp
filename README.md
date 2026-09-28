@@ -1,4 +1,4 @@
-IFAPME graduate 2026, after a two-year apprenticeship building internal tools on an
+IFAPME graduate 2026, after a two-year work-study programme building internal tools on an
 industrial cloud platform: self-service flows that let a support team work without
 developers, and a GDPR account deletion service on Spring Boot and RabbitMQ.
 
@@ -9,11 +9,11 @@ Currently looking for a backend role in Belgium: Walloon Brabant, Hainaut, Bruss
 
 ### What's here
 
-- **[agent-index-backend](https://github.com/st00mp/agent-index-backend)**: Spring Boot REST API. Layered architecture, business-logic tests, CI running on every commit. Start here.
-- **[syntinel](https://github.com/st00mp/syntinel)**: modular microservices pipeline, Python.
+- **[matterhorn-backend](https://github.com/st00mp/matterhorn-backend)**: Spring Boot 4 REST API. Automated quotes for accounting firms from incoming emails: LLM extraction with provenance, deterministic pricing. 93 offline tests, CI on every commit. Start here.
 - **[the-blog](https://github.com/st00mp/the-blog)**: Symfony API with a Next.js frontend.
+- **[syntinel](https://github.com/st00mp/syntinel)**: modular microservices pipeline, Python.
 
-I also run a small homelab on Debian with Docker and Tailscale, which is where most of
-my Linux and infrastructure practice happens.
+I also run a small self-hosted infrastructure on Debian (two hosts, Docker, self-hosted
+GitLab with CI), which is where most of my Linux and ops practice happens.
 
 [LinkedIn](https://www.linkedin.com/in/vincent-corvers/)
