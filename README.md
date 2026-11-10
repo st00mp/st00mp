@@ -16,5 +16,3 @@ Currently looking for a backend role in Belgium: Walloon Brabant, Hainaut, Bruss
 
 I also run a small self-hosted infrastructure on Debian (two hosts, Docker, self-hosted
 GitLab with CI), which is where most of my Linux and ops practice happens.
-
-[LinkedIn](https://www.linkedin.com/in/vincent-corvers/)
